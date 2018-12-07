@@ -1,4 +1,4 @@
-// By: Havan Patel, TRAVIS PULLIS B
+// By: Havan Patel
 
 package application;
 
